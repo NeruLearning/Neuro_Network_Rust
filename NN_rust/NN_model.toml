@@ -1,0 +1,11 @@
+[package]
+name = "NN_rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "NN_model"
+path = "NN_model.rs"
+
+[profile.release]
+opt-level = 3
