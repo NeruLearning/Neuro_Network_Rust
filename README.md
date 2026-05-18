@@ -1,1 +1,1 @@
-![](https://tenor.com/de/view/tspchan1-lick-anime-lick-anime-nobokki-gif-7931046063957101742)
+![](https://media.tenor.com/bhC8X-tsTK4AAAAi/tspchan1-lick.gif)
