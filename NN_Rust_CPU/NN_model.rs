@@ -518,7 +518,7 @@ fn main() {
     println!("Trainingsbilder: {}", train_images.len());
     println!("X dims: {}x{}", x_train.rows, x_train.cols);
     println!("Y dims: {}x{}", y_train.rows, y_train.cols);
-    neuron.train(&x_train, &y_train, 1, 0.01, 16);
+    neuron.train(&x_train, &y_train, 10, 0.01, 16);
 
     let (test_images, test_labels) = get_zero_and_ones(
         "../data/MNIST/raw/t10k-images-idx3-ubyte",
